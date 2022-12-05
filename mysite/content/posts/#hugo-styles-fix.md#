@@ -1,0 +1,10 @@
+---
+title: "Hugo Styles Fix"
+date: 2022-12-05T11:01:36-05:00
+---
+
+Browser inspector tools are great as this [stackoverflow answer]() demonstrates. A simple '/' missing in your config and your CSS is messed up. Fixed the bug. CSS applies to the website now. Kinda neat.
+
+I could imagine a time when this fix wouldn't have come. I would have other 'priorities' and abandon the whole endevour and delete the repo in a few months after it stales.
+---
+Prioritizing things that come into the horizon of your consciousness and choosing to do things that enrich your life in the long term is something I simply lost in the process of growing up. Meditation is the right thing I guess

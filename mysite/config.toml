@@ -1,4 +1,4 @@
-baseURL = 'https://ozonil.github.io'
+baseURL = 'https://ozonil.github.io/'
 relativeURLs = "True"
 languageCode = 'en-us'
 title = 'OZONIL'
