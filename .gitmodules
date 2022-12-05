@@ -1,0 +1,4 @@
+[submodule "mysite/public"]
+	path = mysite/public
+	url = git@github.com:ozonil/ozonil.github.io.git
+	branch = main

@@ -1,0 +1,5 @@
+baseURL = 'https://ozonil.github.io'
+relativeURLs = "True"
+languageCode = 'en-us'
+title = 'OZONIL'
+theme = "contrast-hugo"
