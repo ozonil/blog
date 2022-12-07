@@ -1,6 +1,7 @@
 ---
 title: "Second post"
 date: 2022-12-04T20:53:01-05:00
+tags: [personal]
 ---
 
 Immediate followup. CSS is messed up after deployment. Must have something to do with how I *didn't* do something. It still looks pretty though. Time to let it go and move on to more immediate commitments.

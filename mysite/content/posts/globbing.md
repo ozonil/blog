@@ -1,6 +1,7 @@
 ---
 title: "Globbing"
 date: 2022-12-06T12:28:32-05:00
+tags: [programming, unix]
 ---
 
 Globbing is a built-in pattern matching system for unix systems. After a unix command like 'ls' or 'find' instead of a regular string, you can enter a wild-card pattern which is a string containing characters like '?', '*' or '[', each of which has a specific meaning associated with it. It works with all commands that take in file arguments.

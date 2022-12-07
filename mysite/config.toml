@@ -3,3 +3,6 @@ relativeURLs = "True"
 languageCode = 'en-us'
 title = 'OZONIL'
 theme = "contrast-hugo"
+[taxonomies]
+	categories = "categories"
+	tag = "tags"

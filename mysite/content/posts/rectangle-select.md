@@ -1,6 +1,7 @@
 ---
 title: "Rectangle Select"
 date: 2022-12-05T16:51:18-05:00
+tags: [programming, emacs]
 ---
 
 Rectangle select is awesome. Here's how you use it.

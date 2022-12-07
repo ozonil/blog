@@ -1,6 +1,7 @@
 ---
 title: "Hugo Styles Fix"
 date: 2022-12-05T11:01:36-05:00
+tags: [programming, fix, hugo]
 ---
 
 Browser inspector tools are great as this [stackoverflow answer](https://stackoverflow.com/a/46548205) demonstrates. A simple '/' missing in your config and your CSS is messed up. Fixed the bug. CSS applies to the website now. Kinda neat.
